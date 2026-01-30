@@ -73,7 +73,7 @@ export const SITE_CONTENT: SiteContent = {
         "A straighforward tool for wind rose plot generator. Easily generate and download wind rose plot and table in PNG format.",
       linkPreview: "https://ryanalvita.com/windrose",
       linkSource: "https://github.com/ryanalvita/windrose",
-      image: "/images/windrose.png",
+      image: "/images/windrose.jpg",
     },
   ],
   about: {
