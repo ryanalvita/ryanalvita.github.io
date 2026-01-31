@@ -14,9 +14,9 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Email", href: "mailto:ryanalvita@gmail.com" },
+    { text: "GitHub", href: "https://github.com/ryanalvita" },
     { text: "LinkedIn", href: "https://linkedin.com/in/ryanalvita" },
-    { text: "Github", href: "https://github.com/ryanalvita" },
+    { text: "Email", href: "mailto:ryanalvita@gmail.com" },
   ],
   canonicalURL: "https://ryanalvita.com",
 };
