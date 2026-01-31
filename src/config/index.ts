@@ -68,13 +68,45 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Windrose Generator App",
+      name: "Windrose",
       summary:
         "A straightforward wind rose plot generator tool. Easily generate and download wind rose plot and table in PNG format.",
       linkPreview: "https://ryanalvita.com/windrose",
       linkSource: "https://github.com/ryanalvita/windrose",
-      image: "/images/windrose.jpg",
+      image: "/images/windrose.png",
     },
+    {
+      name: "Breakwater Design",
+      summary:
+        "Design a conceptual breakwater design using user-friendly streamlit app, powered by the open-source breakwater package.",
+      linkPreview: "https://breakwater.streamlit.app/",
+      linkSource: "https://github.com/ryanalvita/windrose",
+      image: "/images/breakwater-design.png",
+    },
+    {
+      name: "Burgernomics Salary Converter",
+      summary:
+        "Convert salary from one country to another using the Big Mac Index.",
+        linkPreview: "https://burgernomics-salary-converter.streamlit.app/",
+        linkSource: "https://github.com/ryanalvita/windrose",
+        image: "/images/burgernomics-salary-converter.png",
+      },
+    {
+      name: "Income Tax Calculator (NL)",
+      summary:
+        "Calculate your basic income tax (in the Netherlands) in the most simple yet descriptive way.",
+        linkPreview: "https://income-tax-calculator-nl.streamlit.app/",
+        linkSource: "https://github.com/ryanalvita/windrose",
+        image: "/images/income-tax-calculator-nl.png",
+      },
+    {
+      name: "Retirement Fund Strategy",
+      summary:
+        "Calculate required retirement fund using the 4% rule and determine the investment strategy over time.",
+        linkPreview: "https://ryanalvita.com/retirement_fund_strategy/index.html",
+        linkSource: "https://github.com/ryanalvita/windrose",
+        image: "/images/retirement-fund-strategy.png",
+      },
   ],
   about: {
     description: `
