@@ -1,5 +1,9 @@
 ---
 import type { HeroProps } from "@types";
+import LinkedIn from "@icons/LinkedIn.astro";
+import GitHub from "@icons/GitHub.astro";
+import Email from "@icons/Email.astro";
+
 type Props = HeroProps;
 
 const { name, specialty, summary, email } = Astro.props;
@@ -19,9 +23,15 @@ const { name, specialty, summary, email } = Astro.props;
   <p class="mb-16 text-base font-normal text-neutral md:text-lg">
     {summary}
   </p>
-
-  <a
-    class="inline-block rounded-full bg-primary px-8 py-5 text-sm leading-5 font-medium text-[#fff]"
-    href={`mailto:${email}`}>Get in Touch</a
-  >
+  <p class="mb-9 flex gap-3">
+    <a href="https://github.com/ryanalvita" target="_blank">
+      <GitHub />
+    </a>
+    <a href="https://linkedin.com/in/ryanalvita" target="_blank">
+      <LinkedIn />
+    </a>
+    <a href="mailto:ryanalvita@gmail.com">
+      <Email />
+    </a>
+  </p>
 </section>
