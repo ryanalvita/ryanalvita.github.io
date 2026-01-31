@@ -73,7 +73,7 @@ export const SITE_CONTENT: SiteContent = {
         "A straightforward wind rose plot generator tool. Easily generate and download wind rose plot and table in PNG format.",
       linkPreview: "https://ryanalvita.com/windrose",
       linkSource: "https://github.com/ryanalvita/windrose",
-      image: "/images/windrose.png",
+      image: "/windrose.png",
     },
     {
       name: "Breakwater Design",
@@ -81,7 +81,7 @@ export const SITE_CONTENT: SiteContent = {
         "Design a conceptual breakwater design using user-friendly streamlit app, powered by the open-source breakwater package.",
       linkPreview: "https://breakwater.streamlit.app/",
       linkSource: "https://github.com/ryanalvita/windrose",
-      image: "/images/breakwater-design.png",
+      image: "/breakwater-design.png",
     },
     {
       name: "Burgernomics Salary Converter",
@@ -89,7 +89,7 @@ export const SITE_CONTENT: SiteContent = {
         "Convert salary from one country to another using the Big Mac Index.",
         linkPreview: "https://burgernomics-salary-converter.streamlit.app/",
         linkSource: "https://github.com/ryanalvita/windrose",
-        image: "/images/burgernomics-salary-converter.png",
+        image: "/burgernomics-salary-converter.png",
       },
     {
       name: "Income Tax Calculator (NL)",
@@ -97,7 +97,7 @@ export const SITE_CONTENT: SiteContent = {
         "Calculate your basic income tax (in the Netherlands) in the most simple yet descriptive way.",
         linkPreview: "https://income-tax-calculator-nl.streamlit.app/",
         linkSource: "https://github.com/ryanalvita/windrose",
-        image: "/images/income-tax-calculator-nl.png",
+        image: "/income-tax-calculator-nl.png",
       },
     {
       name: "Retirement Fund Strategy",
@@ -105,7 +105,7 @@ export const SITE_CONTENT: SiteContent = {
         "Calculate required retirement fund using the 4% rule and determine the investment strategy over time.",
         linkPreview: "https://ryanalvita.com/retirement_fund_strategy/index.html",
         linkSource: "https://github.com/ryanalvita/windrose",
-        image: "/images/retirement-fund-strategy.png",
+        image: "/retirement-fund-strategy.png",
       },
   ],
   about: {
