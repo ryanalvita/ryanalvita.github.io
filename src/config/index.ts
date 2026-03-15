@@ -68,6 +68,14 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
+      name: "Bank Statement Parser",
+      summary:
+        "Parse your bank statement PDFs safely and copy transactions into your spending tracker spreadsheet.",
+      linkPreview: "https://ryanalvita.com/bank-statement-parser",
+      linkSource: "https://github.com/ryanalvita/bank-statement-parser",
+      image: "/images/bank-statement-parser.png",
+    },
+    {
       name: "Windrose",
       summary:
         "A straightforward wind rose plot generator tool. Easily generate and download wind rose plot and table in PNG format.",
