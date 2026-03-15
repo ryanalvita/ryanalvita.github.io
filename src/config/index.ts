@@ -80,33 +80,35 @@ export const SITE_CONTENT: SiteContent = {
       summary:
         "Design a conceptual breakwater design using user-friendly streamlit app, powered by the open-source breakwater package.",
       linkPreview: "https://breakwater.streamlit.app/",
-      linkSource: "https://github.com/ryanalvita/windrose",
+      linkSource: "https://github.com/ryanalvita/stramlit_app_breakwater",
       image: "/images/breakwater-design.png",
     },
     {
       name: "Burgernomics Salary Converter",
       summary:
         "Convert salary from one country to another using the Big Mac Index.",
-        linkPreview: "https://burgernomics-salary-converter.streamlit.app/",
-        linkSource: "https://github.com/ryanalvita/windrose",
-        image: "/images/burgernomics-salary-converter.png",
-      },
+      linkPreview: "https://burgernomics-salary-converter.streamlit.app/",
+      linkSource:
+        "https://github.com/ryanalvita/streamlit_app_burgernomics_salary_converter",
+      image: "/images/burgernomics-salary-converter.png",
+    },
     {
       name: "Income Tax Calculator (NL)",
       summary:
         "Calculate your basic income tax (in the Netherlands) in the most simple yet descriptive way.",
-        linkPreview: "https://income-tax-calculator-nl.streamlit.app/",
-        linkSource: "https://github.com/ryanalvita/windrose",
-        image: "/images/income-tax-calculator-nl.png",
-      },
+      linkPreview: "https://income-tax-calculator-nl.streamlit.app/",
+      linkSource:
+        "https://github.com/ryanalvita/streamlit_app_income_tax_calculator_nl",
+      image: "/images/income-tax-calculator-nl.png",
+    },
     {
       name: "Retirement Fund Strategy",
       summary:
         "Calculate required retirement fund using the 4% rule and determine the investment strategy over time.",
-        linkPreview: "https://ryanalvita.com/retirement_fund_strategy/index.html",
-        linkSource: "https://github.com/ryanalvita/windrose",
-        image: "/images/retirement-fund-strategy.png",
-      },
+      linkPreview: "https://ryanalvita.com/retirement_fund_strategy/index.html",
+      linkSource: "https://github.com/ryanalvita/retirement_fund_strategy",
+      image: "/images/retirement-fund-strategy.png",
+    },
   ],
   about: {
     description: `
