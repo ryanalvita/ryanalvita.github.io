@@ -68,6 +68,14 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
+      name: "PilihSMA",
+      summary:
+        "See how many students from each Indonesian high school get into public universities via SNBP, built on crowdsourced, community-corrected data.",
+      linkPreview: "https://pilihsma.ryanalvita.com",
+      linkSource: "https://github.com/ryanalvita/pilih-sma",
+      image: "/images/pilih-sma.png",
+    },
+    {
       name: "Bank Statement Parser",
       summary:
         "Parse your bank statement PDFs safely and copy transactions into your spending tracker spreadsheet.",
